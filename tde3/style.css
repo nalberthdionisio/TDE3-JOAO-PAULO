@@ -1,0 +1,71 @@
+*{
+    font-family:fantasy;
+}
+
+body{
+    background: url(imagem/pexels-pixabay-256502.jpg) no-repeat ;
+    background-size:1500px 2550px;
+}
+
+h1{
+    color:#0044ff;
+    font-size:100px;
+    text-align:center;
+    border-style: solid;
+}
+
+h2{
+    color:#0044ff;
+    font-size:30px;
+    text-align:center; 
+}
+
+h3{
+    color:#0044ff;
+    font-size:30px;
+    text-align:center;
+}
+
+p{
+    color: #ffffff;
+    font-size: 20px; 
+}
+
+a{
+    color:#ff0000;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+abbr{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
+ul{
+    color:#0044ff;
+    text-transform: lowercase;
+    border-style: solid;
+    width: 400px;
+    border-width: 1px;
+}
+
+.select{
+    color:#0044ff;
+    text-align: left;
+    border-style: hidden;
+}
+
+.archives{
+    color:#0044ff;
+    text-align: left;
+    border-style: hidden;
+}
+
+.resources{
+    color:#0044ff;
+    text-align: left;
+    border-style: hidden;
+}
+
